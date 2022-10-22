@@ -1,9 +1,7 @@
 Hello, we are the team Fabies Angels!
-*Members:*
 
-| `Name`                  | `Course` |
-| ----------------------- | -------- |
-| `James Ryan Decena`     | `BSIT`   |
-| `Kristine Joy Saquido`  | `BSIT`   |
-| `Juanabell Abiada`      | `BSIT`   |
-| `Roi Ivan Asis`         | `BSIT`   |
+Members:
+1. James Ryan Decena
+2. Kristine Joy Saquido
+3. Juanabell Abiada
+4. Roi Ivan Asis
